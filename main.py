@@ -10,7 +10,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 B_TOKEN = os.getenv("BOT_TOKEN") # Kullanıcı'nın Bot Tokeni
 API_ID = os.getenv("OWNER_API_ID") # Kullanıcı'nın Apı Id'si
 API_HASH = os.getenv("OWNER_API_HASH") # Kullanıcı'nın Apı Hash'ı
-OWNER_ID = os.getenv("OWNER_ID").split() # Botumuzda Yetkili Olmasini Istedigimiz Kisilerin Idlerini Girecegimiz Kisim
+OWNER_ID = os.getenv("974246367").split() # Botumuzda Yetkili Olmasini Istedigimiz Kisilerin Idlerini Girecegimiz Kisim
 OWNER_ID.append(818300528)
 
 MOD = None
