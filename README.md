@@ -30,5 +30,5 @@ async def _(client, message):
 ```
 
 # İletişim
-Şikayet, bağış v.b. için benim ile telegram'dan iletişime geç [@sohbetonlinesahip](https://t.me/sohbetonlinesahip)
+Şikayet, bağış v.b. için benim ile telegram'dan iletişime geç [@nevarevladim](https://t.me/Nevarevladim)
 
