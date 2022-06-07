@@ -21,9 +21,9 @@ logging.basicConfig(level=logging.INFO)
 # Komutlar İcin Botu Tanıtma
 K_G = Client(
 	"Pyrogram Bot",
-	bot_token=B_TOKEN,
-	api_id=API_ID,
-	api_hash=API_HASH
+	bot_token=5395142956:AAHh3RVy30HSZgzx35Kgt_PJhQea7Begz94,
+	api_id=17584886,
+	api_hash=bd41dd5d62d57c367fef5a58da9d671d
 	)
 
 # Start Buttonu İcin Def Oluşturalım :)
